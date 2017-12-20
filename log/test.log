@@ -1278,3 +1278,4 @@ Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.1ms)
   [1m[35m (0.2ms)[0m  rollback transaction
 =======
 >>>>>>> 140bbcfc0bdc9060931c54cc0acdcd65a6dcb9d2
+  [1m[36m (4.0ms)[0m  [1mCREATE TABLE "students" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "first_name" varchar, "last_name" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
